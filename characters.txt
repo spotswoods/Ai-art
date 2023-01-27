@@ -1,0 +1,119 @@
+boy
+girl
+women
+man
+teenager
+scientist
+teacher
+police officer
+firefighter
+lawyer
+doctor
+robot
+superhero
+villain
+princess
+king
+queen
+astronaut
+businessman
+body builder
+beefcake
+chef
+farmer
+sailors
+soldier
+explorer
+artist
+musician
+athlete
+engineer
+writer
+journalist
+historian
+philosopher
+psychologist
+sociologist
+politician
+adventurer
+detective
+librarian
+truck driver
+mechanic
+construction worker
+nurse
+hairdresser
+beautician
+cleaner
+security guard
+janitor
+storekeeper
+delivery person
+customer service representative
+computer programmer
+graphic designer
+social worker
+counselor
+lorry driver
+delivery driver
+factory worker
+office worker
+retiree
+immigrant
+senior citizen
+disabled person
+LGBTQ+ person
+Non-binary person
+person of color
+Orc
+Elf
+Dwarf
+Dragon
+Mermaid
+Centaur
+Minotaur
+Goblin
+Gnome
+Fairy
+Werewolf
+Vampire
+Ghost
+Zombie
+Demon
+Angel
+Alien
+Kraken
+Phoenix
+Harpy
+Kraken
+Naga
+Leviathan
+Chimera
+Cyclops
+Medusa
+Mummy
+Sphinx
+Kraken
+Golem
+Frankenstein's monster
+Succubus
+Incubus
+Kelpie
+Banshee
+Wight
+Wraith
+Shadow
+Necromancer
+Summoner
+Witch
+Wizard
+Sorcerer
+Mage
+Warlock
+Summoner
+Necromancer
+Shape-shifter
+Hulk
+Beast
+Gorgon
+Kraken
